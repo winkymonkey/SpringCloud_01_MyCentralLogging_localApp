@@ -1,0 +1,1 @@
+# SpringCloud_01_MyCentralLogging_localApp
